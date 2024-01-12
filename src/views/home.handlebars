@@ -1,0 +1,21 @@
+<div style="display:flex; gap: 5rem;">
+  <div>
+
+    <h1 id="main_title">Productos disponibles:</h1>
+    <div id="container">
+      {{#each products}}
+        <div style="border: 2px solid red; padding: 10px; weight:250px">
+          <ul>
+            <li>title: {{this.title}}</li>
+            <li>desc: {{this.description}}</li>
+            <li>price: {{this.price}}</li>
+            <li>thumbnail: {{this.thumbnail}}</li>
+            <li>code: {{this.code}}</li>
+            <li>stock: {{this.stock}}</li>
+            <li>id: {{this.id}}</li>
+          </ul>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+</div>

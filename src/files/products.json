@@ -1,0 +1,88 @@
+[
+	{
+		"title": "Perro dibujado de mapache",
+		"description": "arte",
+		"price": 2000,
+		"thumbnail": "Ruta de arte",
+		"code": 205,
+		"stock": 9,
+		"id": 4
+	},
+	{
+		"title": "jalapeño",
+		"description": "picante",
+		"price": 150,
+		"thumbnail": "picoroso",
+		"code": 204,
+		"stock": 15,
+		"id": 5
+	},
+	{
+		"title": "gato",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000,
+		"thumbnail": "ojazo",
+		"code": 304,
+		"stock": 10,
+		"id": 6
+	},
+	{
+		"title": "gatasdasdo",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000,
+		"thumbnail": "ojazo",
+		"code": 305,
+		"stock": 10,
+		"id": 7
+	},
+	{
+		"title": "PERRRASODSOADO",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000111,
+		"thumbnail": "ojazo",
+		"catgery": "quarso",
+		"code": 306,
+		"stock": 10,
+		"id": 8
+	},
+	{
+		"title": "AJSDFJAKFKASKF",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000111,
+		"thumbnail": "ojazo",
+		"catgery": "quarso",
+		"code": 307,
+		"stock": 10,
+		"id": 9
+	},
+	{
+		"title": "111111111",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000111,
+		"thumbnail": "ojazo",
+		"catgery": "quarso",
+		"code": 308,
+		"stock": 10,
+		"id": 10
+	},
+	{
+		"title": "2222222",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000111,
+		"thumbnail": "ojazo",
+		"catgery": "quarso",
+		"code": 309,
+		"stock": 10,
+		"id": 11
+	},
+	{
+		"title": "3333333",
+		"description": "asdaasdasdasdsdasd",
+		"price": 1000111,
+		"thumbnail": "ojazo",
+		"catgery": "quarso",
+		"code": 19,
+		"stock": 10,
+		"id": 12
+	}
+]
